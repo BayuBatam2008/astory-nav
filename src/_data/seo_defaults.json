@@ -1,12 +1,12 @@
 {
-  "base_url": "https://twenty-ninety.netlify.app",
-  "description": "A component-based Eleventy starter kit.",
-  "image": "/default-meta.png",
+  "base_url": "https://arstory.palpale.xyz",
+  "description": "Tempat Dimana Kasih Bisa Lihat History Server Lama AST",
+  "image": "../_assets/images/meta/ast-meta-home.png",
   "og": {
     "type": "website"
   },
-  "title_template": "%s | Twenty Ninety",
-  "title": "Twenty Ninety",
+  "title_template": "%s | AST History",
+  "title": "AST History",
   "twitter": {
     "card": "summary_large_image"
   }
