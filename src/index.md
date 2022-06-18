@@ -2,7 +2,7 @@
 layout: default
 title: AST History
 seo:
-  image: /assets/images/meta/ast-meta-home.png
+  image: /_assets/images/meta/ast-meta-home.png
   description: Website Navigasi History AST Archive
 ---
 
