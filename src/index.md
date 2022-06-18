@@ -6,7 +6,7 @@ seo:
   description: Website Navigasi History AST Archive
 ---
 
-<div class="bg-red mb-12">
+<div class="bg-blue mb-12">
   <div class="container text-center text-white py-24">
     <h1>AST History</h1>
     <p class="text-lg mb-8">
